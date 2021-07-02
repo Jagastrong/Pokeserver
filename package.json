@@ -1,0 +1,14 @@
+{
+  "name": "pokead",
+  "version": "1.0.0",
+  "description": "This is a bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jagavantha",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
